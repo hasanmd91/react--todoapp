@@ -1,7 +1,7 @@
 
 .form { 
     width: 50%;
-    background-color:#87a96b;
+    background-color:#0062c4;
     color: white;
     padding: 0.5rem;
     border-radius: 0.6rem;
@@ -14,7 +14,16 @@
 }
 
 .form-Field-label {
-    flex-basis: 20%;
+    flex-basis: 10%;
+    color: white;
+    text-transform: capitalize;
+    font-size: medium;
+    font-weight: bold;
+    margin-left: 40px;
+    box-sizing: border-box;
+
+    
+    
 }
 
 .form-Field-input {
@@ -31,6 +40,7 @@
     border-radius: 0.60rem;
     padding: 1rem;
     box-sizing: border-box;
+    
 }
 
 .form button {
@@ -48,6 +58,6 @@
 }
 
 .form button:hover {
-    background-color:orange;
+    background-color:#76baff;
     color: white;
 }

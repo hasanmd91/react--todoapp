@@ -1,5 +1,5 @@
 .todo {
-    background-color: #8db600;
+    background-color: #003b76;
     margin: 0.5rem;
     border-radius: 0.6rem;
     display: flex;
@@ -10,7 +10,7 @@
 }
 
 .todo:hover{
-    background-color: #111;
+    background-color: #76baff;
 
 }
 
@@ -21,6 +21,6 @@
 .btn {
     border: none;
     background-color: transparent;
-    color: red;
+    color: rgb(15, 14, 14);
     cursor: pointer;
 }
